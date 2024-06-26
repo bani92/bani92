@@ -4,7 +4,7 @@
 * #### 저의 GitHub 정보입니다.
    * #### java_basic 자바 복습
    * #### JPA - JPA 퀵스타트 책 정주행
-   * #### application_Test 애플리케이션 테스트(인강)
+   * #### application_Test - 애플리케이션 테스트(인강)
    * #### JSPO - 호텔 예약 프로젝트
 --- 
    
