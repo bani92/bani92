@@ -2,9 +2,12 @@
 
 * #### 빈틈없는 백엔드 개발자 **김반석**입니다.
 * #### 저의 GitHub 정보입니다.
-   * #### java_basic 자바 복습
+   * #### java_basic2 - 코테 및 자바 기본기 복습
+   * #### typeScript_Basic - 타입스크립트 초급 연습
    * #### JPA - JPA 퀵스타트 책 정주행
-   * #### application_Test - 애플리케이션 테스트(인강)
+   * #### filterAndLogging - 스프링부트 프로젝트(필터 및 로깅 적용)
+   * #### movie-info - Vue.js 연습
+   * #### application_Test - 애플리케이션 테스트 연습
    * #### JSPO - 호텔 예약 프로젝트
 --- 
    
